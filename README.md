@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://wallpapers.com/images/featured/coding-background-9izlympnd0ovmpli.jpg" alt="Banner" width="100%" />
+
 
 ## 📌 About Me
 - I'm Kamil Bhat,  who is passionate about technology and development.
