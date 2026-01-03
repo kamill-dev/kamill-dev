@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">IT Student | Python, Java & Web Development Enthusiast</h3>
-<img src"https://preview.redd.it/does-anyone-have-a-real-github-contributions-graph-like-v0-useo8hrsi6k91.png?auto=webp&s=923482c46ee77d6ff216cda0204f51cf113671bc">
+<img src="https://preview.redd.it/does-anyone-have-a-real-github-contributions-graph-like-v0-useo8hrsi6k91.png?auto=webp&s=923482c46ee77d6ff216cda0204f51cf113671bc">
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=kamill-dev">
