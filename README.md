@@ -14,14 +14,7 @@
 - I enjoy learning programming, building projects, and improving my skills step by step.
 
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamill-dev&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=86400" alt="kamill-dev's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=kamill-dev&theme=dracula&hide_border=true&cache_seconds=86400" alt="kamill-dev's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kamill-dev&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="kamil Farooq Bhat's GitHub Trophies" />
-</p>
+
 
 
 ## 🛠️ Languages & Tools
