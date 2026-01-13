@@ -2,7 +2,7 @@
   <!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" /> -->
 </div>
 
-<h3 align="center">IT Student | Python, Web Development Enthusiast</h3>
+<h3 align="center">IT Student | Python, Web Development Enthusiast  </h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=kamill-dev">
