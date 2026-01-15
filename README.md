@@ -73,7 +73,7 @@
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg"
          alt="Gmail" width="40" height="40" style="margin: 0 8px;" />
   </a>
-  <p>If You Like Any repository Dont forget to give star ⭐️</p>
+  <p>If You Like Any repository Don't forget to give star ⭐️</p>
 </p>
 
 
