@@ -74,9 +74,6 @@
          alt="Gmail" width="40" height="40" style="margin: 0 8px;" />
   </a>
   <p>If You Like Any repository Don't forget to give star ⭐️</p>
-</p>
-
-
-location: jammu and kashmir
+</
 
 
