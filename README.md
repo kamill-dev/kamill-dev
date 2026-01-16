@@ -18,7 +18,7 @@
 
 - 
 - ## 💬 Quote
-> Small steps every day lead to big results
+> Small steps every day lead to big results.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -76,5 +76,7 @@
   <p>If You Like Any repository Don't forget to give star ⭐️</p>
 </p>
 
+
+location: jammu and kashmir
 
 
