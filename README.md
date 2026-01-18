@@ -17,7 +17,7 @@
 - Focused on logic, performance, and growth.
 - Learning to code is learning how to think.
 
-- 
+
 - ## 💬 Quote
 > Small steps every day lead to big results.
 
