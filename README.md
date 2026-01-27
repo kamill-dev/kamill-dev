@@ -15,7 +15,7 @@
 ## 📌 About Me
 - I'm Kamil Bhat, Passionate about technology and development.
 - Focused on logic, performance, and growth.
-- Learning to code is learning how to think.
+  
 
 
 - ## 💬 Quote
