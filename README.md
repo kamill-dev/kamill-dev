@@ -57,17 +57,17 @@
 <p align="center">
   <a href="https://x.com/kamillbhatt0" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg"
-         alt="Twitter" width="40" height="40" style="margin: 0 8px;" />
+         alt="Twitter" width="40" height="40" style="margin: 0 6px;" />
   </a>
 
   <a href="https://wa.me/918899381355" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg"
-         alt="WhatsApp" width="40" height="40" style="margin: 0 8px;" />
+         alt="WhatsApp" width="40" height="40" style="margin: 0 6px;" />
   </a>
 
   <a href="https://www.instagram.com/kamillbhat/" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg"
-         alt="Instagram" width="40" height="40" style="margin: 0 8px;" />
+         alt="Instagram" width="40" height="40" style="margin: 0 6px;" />
   </a>
 
   <a href="mailto:bhatkamil078@gmail.com" target="_blank">
