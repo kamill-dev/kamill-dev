@@ -14,7 +14,7 @@
 
 ## 📌 About Me
 - I'm Kamil Farooq Bhat.
-- Focused on logic, performance and growth.
+- Focused on logic, performance and growth..
   
 
 
