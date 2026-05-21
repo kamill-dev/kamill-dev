@@ -75,6 +75,6 @@
          alt="Gmail" width="40" height="40" style="margin: 0 6px;" />
   </a>
 
-</
+
 
 
